@@ -8,9 +8,10 @@
 </head>
 <body>
 
-<%! int count = 0; %>
+<%! int count = 0; // atributo de clases %>
 
 <% count++; %>
+
 Ud. es el visitante <%=count%>    
 
 </body>
