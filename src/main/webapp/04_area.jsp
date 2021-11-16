@@ -8,11 +8,15 @@
 </head>
 <body>
 
-	<%! int count = 0; // atributo de clases %>
+	<%! 
+		final double PI=3.14159; // defino una constante
 	
-	<% count++; %>
-	
-	Ud. es el visitante <%=count%>    
-
+		double area(double r) {   // defino un metodo
+		   return r*r*PI;
+		}
+	%>
+	  
+	Usando PI igual a <%=PI%>, el área del círculo<br>
+	con un radio de 3 es  <%=area(3)%>
 </body>
 </html>
