@@ -11,7 +11,7 @@
 
 	<%   // Scriptlet 
 	
-		String name = "Jaime";
+		String name = "Maria";
 		
 		out.println(name);
 	
