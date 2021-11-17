@@ -18,7 +18,7 @@
 		c.add("tags");
 		
 		for(String x : c){ 
-			out.print(x + "<br>");
+			System.out.println(x + "<br>");
 		}
 	%>
 

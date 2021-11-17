@@ -13,7 +13,7 @@
 	
 		String name = "Maria";
 		
-		out.println("Hola " + name);
+		out.println("Hola >> " + name);
 	
 	%>
 
