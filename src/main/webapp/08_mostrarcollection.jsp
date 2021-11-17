@@ -8,17 +8,19 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%
-Collection<String> c = new ArrayList<String>();
-c.add("servlets");
-c.add("jsp");
-c.add("beans");
-c.add("tags");
 
-for(String x : c){ 
-	out.print(x + "<br>");
-}
-%>
+	<%
+		Collection<String> c = new ArrayList<String>();
+
+		c.add("servlets");
+		c.add("jsp");
+		c.add("beans");
+		c.add("tags");
+		
+		for(String x : c){ 
+			out.print(x + "<br>");
+		}
+	%>
 
 </body>
 </html>
