@@ -28,6 +28,18 @@
      <br>
 	 <br>
 	 
+	 <%--
+	 
+	 Crear un tabla de 4 x 4 donde se muestre los
+	 numeros :
+	 
+	          10  20  30  40
+	          50  60  70  80
+	          90 100 110 120
+	         130 140 150 160
+	 			
+	  --%>
+	 
 	<!-- Forma 1 -->
 	 <table border=1>
 	   <tr>

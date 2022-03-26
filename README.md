@@ -1,4 +1,4 @@
- # Proyecto básico de jsp
+ # Proyecto basico de jsp
  
- - Contenedor : Jakarta Tomcat versión 9
+ - Contenedor : Jakarta Tomcat version 9
  - Java : version 11
