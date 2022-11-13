@@ -53,6 +53,9 @@
 				<tr>
 					<td><a href="08_inclusion.jsp">08_inclusion.jsp</a></td>
 				</tr>
+				<tr>
+					<td><a href="09_jsp_bootstrap.jsp">09_jsp_bootstrap.jsp</a></td>
+				</tr>
 			</tbody>
 		</table>
 
@@ -91,7 +94,7 @@
 		<table class="table">
 			<tbody>
 				<tr>
-					<td><a href="09_solucion_ejercicio.jsp">09_solucion_ejercicio.jsp</a></td>
+					<td><a href="10_solucion_ejercicio.jsp">10_solucion_ejercicio.jsp</a></td>
 				</tr>
 			</tbody>
 		</table>
