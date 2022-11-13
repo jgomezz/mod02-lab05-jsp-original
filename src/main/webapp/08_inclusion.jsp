@@ -9,10 +9,10 @@
 <body>
 
 	<h3>Inclusión en compilación</h3>
-	<%@include file="08_tabla.jsp" %>
+	<%@include file="08_inclusion_tabla.jsp" %>
 	
 	<h3>Inclusión en ejecución</h3>
-	<jsp:include page="08_tabla.jsp"/>
+	<jsp:include page="08_inclusion_tabla.jsp"/>
 	
 </body>
 </html>
