@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+
 </head>
 <body>
 
@@ -44,13 +45,13 @@
 	 <table border=1>
 	   <tr>
 		<%
-			int limite = 15;
+			int limite = 16;
 		
 			for(int i = 1; i<= limite; i++) {			
 		
-				out.println("<td>" + i + "</td>");
+				out.println("<td>" + i*10 + "</td>");
 		
-				if( i % 3 == 0) 
+				if( i % 4 == 0) 
 					out.println("</tr><tr>");
 			
 			} // end for
